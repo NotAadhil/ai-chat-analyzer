@@ -1,0 +1,22 @@
+# Compiled Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Secrets
+secret_keys.json
+
+# Text documents / User data uploads
+*.txt
+*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
