@@ -57,4 +57,3 @@ We rely on raw logic to figure out social dynamics:
 * **Is it free?** Yes, completely open source. Getting a Gemini API key from Google AI Studio is also free for developers!
 
 ---
-> "This isn't an object detector... this is analyzing human behavior."
